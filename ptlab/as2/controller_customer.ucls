@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" 
+    name="ptlab.as2.presentation.controller.customer.OperationManagementAddCustomerController.AddCustomerConfirmActionListener" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/customer/OperationManagementAddCustomerController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="230" x="187" y="265"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" 
+    name="ptlab.as2.presentation.controller.customer.OperationManagementAddCustomerController" project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/customer/OperationManagementAddCustomerController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="435" x="457" y="108"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" 
+    name="ptlab.as2.presentation.controller.customer.OperationManagementRemoveCustomerController.RemoveCustomerConfirmActionListener" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/customer/OperationManagementRemoveCustomerController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="254" x="1589" y="265"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" 
+    name="ptlab.as2.presentation.controller.customer.OperationManagementEditCustomerController.EditCustomerConfirmActionListener" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/customer/OperationManagementEditCustomerController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="229" x="762" y="265"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" 
+    name="ptlab.as2.presentation.controller.customer.OperationManagementAddCustomerController.AddCustomersOperationSelectionListener" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/customer/OperationManagementAddCustomerController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="265" x="457" y="265"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" 
+    name="ptlab.as2.presentation.controller.customer.OperationManagementRemoveCustomerController.RemoveCustomerTableListener" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/customer/OperationManagementRemoveCustomerController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="214" x="1883" y="265"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" 
+    name="ptlab.as2.presentation.controller.customer.OperationManagementEditCustomerController.EditCustomersOperationSelectionListener" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/customer/OperationManagementEditCustomerController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="264" x="1031" y="265"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" 
+    name="ptlab.as2.presentation.controller.customer.OperationManagementRemoveCustomerController.RemoveCustomersOperationSelectionListener" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/customer/OperationManagementRemoveCustomerController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="289" x="2137" y="265"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" 
+    name="ptlab.as2.presentation.controller.customer.OperationManagementEditCustomerController" project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/customer/OperationManagementEditCustomerController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="429" x="1031" y="108"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" 
+    name="ptlab.as2.presentation.controller.customer.OperationManagementRemoveCustomerController" project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/customer/OperationManagementRemoveCustomerController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="473" x="1660" y="108"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" 
+    name="ptlab.as2.presentation.controller.customer.OperationManagementEditCustomerController.EditCustomerTableListener" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/customer/OperationManagementEditCustomerController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="214" x="1335" y="265"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="ptlab.as2.presentation.controller.customer.OrderManagementCustomerController" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/customer/OrderManagementCustomerController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="421" x="1031" y="-13"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="13">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <nesting id="14">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <nesting id="15">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <nesting id="16">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <nesting id="17">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <nesting id="18">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <association id="19">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="20" name="addCustomerController"/>      
+      <multiplicity id="21" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="22">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="23">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="24" name="editCustomerController"/>      
+      <multiplicity id="25" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="26">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <association id="27">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="28" name="removeCustomerController"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

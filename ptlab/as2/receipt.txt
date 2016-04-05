@@ -1,0 +1,16 @@
+Customer:
+id = 50
+name = c3
+
+Number of products: 2
+
+Product 1:
+id = 25
+name = p2
+quantity = 302
+
+Product 2:
+id = 26
+name = p3
+quantity = 55
+

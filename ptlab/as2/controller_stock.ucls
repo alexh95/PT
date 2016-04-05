@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" 
+    name="ptlab.as2.presentation.controller.stock.OperationManagementStockController.EditStockTableListener" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/stock/OperationManagementStockController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="214" x="96" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" 
+    name="ptlab.as2.presentation.controller.stock.OperationManagementStockController.EditStockConfirmActionListener" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/stock/OperationManagementStockController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="206" x="350" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" 
+    name="ptlab.as2.presentation.controller.stock.OperationManagementStockController.EditStockOperationSelectionListener" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/stock/OperationManagementStockController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="234" x="596" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="ptlab.as2.presentation.controller.stock.OperationManagementStockController" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/controller/stock/OperationManagementStockController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="421" x="350" y="81"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="5">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <nesting id="6">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <nesting id="7">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

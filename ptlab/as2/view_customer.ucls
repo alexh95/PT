@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="ptlab.as2.presentation.view.operation.customer.OrderManagementEditCustomerPanel" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/view/operation/customer/OrderManagementEditCustomerPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="346" x="109" y="161"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="ptlab.as2.presentation.view.operation.customer.OrderManagementAddCustomerPanel" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/view/operation/customer/OrderManagementAddCustomerPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="329" x="495" y="161"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="ptlab.as2.presentation.view.operation.customer.OrderManagementRemoveCustomerPanel" 
+    project="as2" 
+    file="/as2/src/main/java/ptlab/as2/presentation/view/operation/customer/OrderManagementRemoveCustomerPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="346" x="864" y="161"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
